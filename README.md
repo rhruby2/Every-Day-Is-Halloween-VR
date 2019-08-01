@@ -8,3 +8,6 @@ Our project is themed around Halloween fun houses with a dark atmosphere that is
 You wake up with a smoking car crashed against a familiar house, but the weather is a little different. Try to find a way to get to the basement to escape some threatening sounds from outside. Once there, you can find an unlikely light source which you can bring back upstairs to see some things you couldn’t before.
 
 This is a project built for VR using the HTC Vive. As such you have a limited ability to interact with the world around you. This includes picking up objects, and unlocking doors.
+
+*NOTE: the below video suffers from poor framerate due to recording method, not due to the Application.*
+[Link to Video](https://youtu.be/5bEkHLiFJKE)
