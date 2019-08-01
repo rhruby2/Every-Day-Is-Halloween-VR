@@ -9,5 +9,7 @@ You wake up with a smoking car crashed against a familiar house, but the weather
 
 This is a project built for VR using the HTC Vive. As such you have a limited ability to interact with the world around you. This includes picking up objects, and unlocking doors.
 
+[Link to Documentation](https://docs.google.com/document/d/1mdAa5W3a-d59kmTlyzTsdg_VO0PZyNUWQCBCDeBLbkQ/edit?usp=sharing)
+
 *NOTE: the below video suffers from poor framerate due to recording method, not due to the Application.*
 [Link to Video](https://youtu.be/5bEkHLiFJKE)
